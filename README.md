@@ -159,10 +159,11 @@ Durante este projeto foram praticados conceitos importantes de QA Manual, como:
 
 # 👩‍💻 Autora
 
-## :contentReference[oaicite:0]{index=0}
+## Lizandra Pontes
 
 - GitHub: [lizandra-p](https://github.com/lizandra-p)
 - LinkedIn: https://www.linkedin.com/in/lizandra-pontes-3203b5354/
+- Email: lizandraptes@gmail.com
 ---
 
 # 🚀 Objetivo futuro
