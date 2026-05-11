@@ -96,11 +96,12 @@ Desktop
 
 ### CHECKOUT
 
-#### Cenários:
+#### Cenários
+- Checkout com carrinho vazio 
 - Checkout com dados válidos
 - Campos obrigatórios vazios
-- Finalizar compra
 - Cancelar checkout
+- Finalizar compra
 
 ---
 
