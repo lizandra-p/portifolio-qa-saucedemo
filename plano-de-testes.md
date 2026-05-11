@@ -39,7 +39,7 @@ https://www.saucedemo.com
 Google Chrome
 
 **Sistema Operacional:**  
-Windows
+Windows 11
 
 ---
 
