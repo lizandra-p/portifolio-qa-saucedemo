@@ -417,7 +417,7 @@ O sistema impediu o avanço corretamente e exibiu mensagem de erro.
 ## Status
 Aprovado
 
-# CT-014 — Cancelar checkout
+# CT-015 — Cancelar checkout
 
 ## Prioridade
 Média
@@ -440,12 +440,12 @@ O checkout foi cancelado corretamente e o sistema retornou para a página anteri
 
 ## Evidência
 
-![Checkout cancelado](evidencias/ct-014.png)
+![Checkout cancelado](evidencias/ct-015.png)
 
 ## Status
 Aprovado
 
-# CT-015 — Finalizar compra
+# CT-016 — Finalizar compra
 
 ## Prioridade
 Alta
@@ -469,14 +469,14 @@ A compra foi finalizada corretamente e a confirmação do pedido foi exibida.
 
 ## Evidência
 
-![Compra finalizada](evidencias/ct-020.png)
+![Compra finalizada](evidencias/ct-016.png)
 
 ## Status
 Aprovado
 
 # Logout
 
-# CT-016 — Realizar logout pelo menu lateral
+# CT-017 — Realizar logout pelo menu lateral
 
 ## Prioridade
 Alta
@@ -499,7 +499,7 @@ O sistema encerrou a sessão do usuário e retornou para a tela de login correta
 
 ## Evidência
 
-![Logout realizado pelo menu lateral](evidencias/ct-023.png)
+![Logout realizado pelo menu lateral](evidencias/ct-017.png)
 
 ## Status
 Aprovado
