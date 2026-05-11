@@ -38,10 +38,7 @@ https://www.saucedemo.com
 **Navegador:**  
 Google Chrome
 
-**Dispositivo:**  
-Desktop
-
-**Sistema operacional:**
+**Sistema Operacional:**  
 Windows
 
 ---
