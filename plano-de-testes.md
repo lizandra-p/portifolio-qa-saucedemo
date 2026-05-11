@@ -22,7 +22,6 @@ Funcionalidades que serão testadas:
 ## 3. TIPOS DE TESTE
 
 - Teste funcional
-- Teste de regressão
 - Teste de validação
 - Teste de interface
 
