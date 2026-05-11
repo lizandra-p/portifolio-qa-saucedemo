@@ -1,3 +1,7 @@
+# Casos de Teste - SauceDemo
+## Objetivo
+Validar as principais funcionalidades do sistema SauceDemo, incluindo login, carrinho, checkout e logout.
+
 # Login
 
 # CT-001 — Login com credenciais válidas
