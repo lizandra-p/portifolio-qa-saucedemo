@@ -41,6 +41,9 @@ Google Chrome
 **Dispositivo:**  
 Desktop
 
+**Sistema operacional:**
+Windows
+
 ---
 
 ## 5. DADOS DE TESTE
