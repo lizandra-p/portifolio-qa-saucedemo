@@ -1,4 +1,4 @@
-# 🧪 SauceDemo — QA Manual Testing Portfolio
+# 🧪 SauceDemo — QA Manual Testing Project
 
 Projeto de testes manuais realizado no sistema SauceDemo com foco em documentação QA, execução de casos de teste e reporte de bugs.
 
@@ -28,7 +28,6 @@ Neste projeto foram realizados testes nos principais fluxos do sistema, incluind
 - Criar documentação QA profissional
 - Desenvolver raciocínio de testes
 - Exercitar identificação e documentação de bugs
-- Construir portfólio para vagas de QA Jr
 
 ---
 
